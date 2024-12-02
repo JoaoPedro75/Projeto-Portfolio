@@ -210,7 +210,10 @@ body{
     .skills-section{
         border: 2px #b77deb !important;
     }
-    
+   .textosobre{
+    font-size: large;
+    line-height: 32px !important;
+   }
   }
   .skills-section {
     border: 2px solid #b77deb;
