@@ -35,12 +35,12 @@ body {
   .navbar-collapse {
     backdrop-filter: blur(2px);
     transform: translateY(+17px);
-    background-color: #ea00ff75;
+    background-color: #ffb8d03a;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
-    border-bottom: 2px solid #c3bbc9;
-    border-left: 2px solid #c3bbc9;
-    border-right: 2px solid #c3bbc9;
+    border-bottom: 2px solid #4b2e83;
+    border-left: 2px solid #4b2e83;
+    border-right: 2px solid #4b2e83;
     padding: 10px;
   }
 
